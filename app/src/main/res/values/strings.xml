@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prostuti</string>
+    <string name="app_tagline">Prostuti (প্রস্তুতি): preparation</string>
+    <string name="privacy_line">Everything stays on this phone. There is no account and no server.</string>
+    
+    <!-- Navigation -->
+    <string name="nav_today">Today</string>
+    <string name="nav_plan">Plan</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_subjects">Subjects</string>
+    <string name="nav_progress">Progress</string>
+
+    <!-- Today Screen -->
+    <string name="today_nothing_planned">Nothing planned today. Either you\'re ahead, or no exam has been added yet.</string>
+    <string name="today_day_done">All sessions done. Close the book.</string>
+    <string name="catch_up_banner">%1$d sessions from yesterday are still open.</string>
+    <string name="catch_up_move_button">Move them</string>
+    <string name="i_missed_today">I missed today</string>
+    <string name="light_day">Light day</string>
+    <string name="missed_today_confirm">That happens. I\'ll move today\'s %1$d sessions (%2$s) into the days you have left, and tell you exactly what changed.</string>
+    <string name="reschedule">Reschedule</string>
+    <string name="cancel">Cancel</string>
+    <string name="undo">Undo</string>
+    <string name="cards_due">%1$d cards due.</string>
+    <string name="no_cards_due">No cards due. Come back tomorrow.</string>
+    <string name="readiness_footnote">A rough guide from your own progress, not a prediction.</string>
+    <string name="timer_battery_note">If the phone sleeps the app, the time stays correct but the alert may arrive late.</string>
+
+    <!-- Microcopy -->
+    <string name="focus_complete_25_5">25 minutes done. Stand up for 5.</string>
+    <string name="focus_complete_general">%1$d minutes done. Take a break.</string>
+    <string name="break_over">Break\'s over. Next block: %1$s, %2$s.</string>
+    <string name="break_over_general">Break\'s over. Ready for the next block.</string>
+    <string name="subject_deleted">Subject deleted.</string>
+    <string name="empty_subjects">No subjects yet. Add one with its exam date and I\'ll build the plan.</string>
+    <string name="no_cards_for_topic">No cards for this topic yet. Write one question you got wrong today.</string>
+    <string name="no_problems_for_topic">No problems saved for this topic. Add one from your textbook or a past paper.</string>
+    <string name="overload_title">This doesn\'t fit.</string>
+    <string name="overload_message">%1$s needs %2$s more than you\'ve set aside before %3$s.</string>
+    <string name="overload_add_30">Add 30 min a day</string>
+    <string name="overload_drop_topic">Drop a topic</string>
+    <string name="overload_keep_anyway">Keep it anyway</string>
+
+    <string name="reminder_notice">Reminders work while the app is installed and allowed to notify. Some phones delay them.</string>
+</resources>
